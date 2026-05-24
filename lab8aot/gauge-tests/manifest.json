@@ -1,0 +1,7 @@
+{
+  "gauge_version": "1.0",
+  "language": "javascript",
+  "plugins": [
+    "js"
+  ]
+}
